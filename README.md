@@ -122,19 +122,3 @@ If you suspect you may need an accommodation based on the impact of a disability
 * Students will be able to apply computer science theory to determine whether a given grammar is parseable by recursive descent.
 
 
-## Classroom COVID-19 policies
-
-Ohio University is committed to maintaining a safe learning environment for all members of its community – students, faculty, and staff – regardless of whether they have been vaccinated against COVID-19.
-
-All members of the OHIO community are expected to take certain precautions in classrooms and elsewhere on campus to keep each other safe. All individuals are required to wear masks in indoor public spaces on campus, including classrooms. 
-
-All OHIO students, faculty and staff must be vaccinated against COVID-19 or have an approved exemption. The University strongly encourages all students, faculty, and staff to get a booster shot.  
-
-If you are on the Weekly Testing Pathway as part of the COVID-19 Testing Pathway Program, you are expected to adhere to your required testing schedule.
-Complete a daily COVID-19 symptom assessment(opens in a new window) and do not come to class or participate in an activity if you feel sick, even if you are vaccinated against COVID-19. 
-
-If you test positive, feel sick or suspect exposure to COVID-19, it is your responsibility to follow the OHIO COVID-19 Protocol.
-
-If you do test positive or need to isolate or quarantine this semester, after you have taken care of yourself and followed all the steps in the OHIO COVID-19 Protocol, please email me so that we can develop a plan for you to receive necessary information. COVID-related illness, quarantine, isolation, and remain-in-room directives are legitimate university absences, and I will work with you to manage your academic or work requirements and connect you to resources. 
-
-If you feel that your class or work performance is being impacted by COVID-19, please talk with me and/or contact COVID Operations by phone (740.566.8445) or email (COVIDoperations@ohio.edu) Monday through Friday, 8 a.m. to 8 p.m., and noon to 5 p.m. on weekends. The University has resources available to help with quarantine and isolation support, as well as access to COVID-19 testing, counseling services, food assistance, and more. 
