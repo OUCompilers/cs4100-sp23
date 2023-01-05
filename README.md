@@ -70,8 +70,6 @@ The schedule is subject to revision.
 | May 1 - May 5 | **FINAL EXAM** May 4 @ 12:20pm, Same Location | | [PA5](pa/5.md) (Optional, Sat. 29 Apr)|
 <!-- | Week 14 (19 Apr) | Register allocation | Appel 11 | No quiz -- study for finals! | -->
 
-* Note: we will move the Week 11 and Week 12 content forward one week to get ready for PA4 sooner.
-
 Assignments are due in Blackboard at 11:59pm unless otherwise specified. **Q0**, **Q1**, etc., denote quizzes in Blackboard.
 
 ## Homework and Collaboration Policies
@@ -90,7 +88,7 @@ Unless otherwise noted, homeworks are due Saturdays by 11:59 p.m. Late homework 
 You may discuss the homework with other students in the class, but only after you've attempted the problems on your own first. If you do discuss the homework problems with others, write the names of the students you spoke with, along with a brief summary of what you discussed, in a README comment at the top of each submission. Example:
 
 ```
-(* README Alex Bagnall, Assn #1 
+(* README Dominic Benintendi, Assn #1 
 I worked with X and Y. We swapped tips regarding the use of pattern-matching in Rust. *)
 ```
 
