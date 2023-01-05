@@ -52,21 +52,22 @@ The schedule is subject to revision.
 
 | Week                        | Topic                                 | Reading                        | Assignment |
 |-----------------------------|---------------------------------------|--------------------------------|------------|
-| Week 1 (11 Jan) | Intro. to the course, compilers, Rust | [The Rust Book](https://doc.rust-lang.org/book/index.html) 1-3 | Q0/[PE1](pe1.md) (Sat. 15 Jan) |
-| Week 2 (18 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | Q1/[PE2](pe2.md) (Sat. 22 Jan)  |
-| Week 3 (25 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 9, 10.1, 10.2 | [PA0: Intro. to Rust](pa/0.md) (Sat. 29 Jan) |
-| Week 4 (1 Feb) | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q2/[PE3](pe3.md) (Sat. 5 Feb) |
-| Week 5 (8 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (12 Feb - extended to the following Wed) |
-| Week 6 (15 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) or Aho 3.3 | Q3 Garbage Collections/[PE4](pe-rustlings.md) (19 Feb - extended to the following Wed) |
-| Week 7 (22 Feb) | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | [PE5](pe-regularexpressions.md)(26 Feb)/Q4 Regular Expressions (5 Mar)   |
-| Week 8 (1 Mar) | Parsing, Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (extended to 19 Mar) |
-| Week 9 (15 Mar) | Midterm review | | Midterm Exam Review (Thursday 17 Mar) |
-| Week 10 (22 Mar) | Recursive descent and predictive parsing, parser generators | Appel 3.2-3.3 | [PA3: GC](pa/3.md) (26 Mar) |
-| Week 11 (29 Mar) | Abstract syntax trees, type systems, typechecking | TAPL 3, 8 |  No quiz -- work on PA4! |
-| Week 12 (5 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q5 (9 Apr) |
-| Week 13 (12 Apr) | IR/codegen continued, control-flow graphs | Appel 7.1 | [PA4: IR](pa/4.md) (16 Apr) |
-| Week 14 (19 Apr) | Dataflow/liveness analysis | Appel 10.1, Supplementary: [SSA is Functional Programming](https://www.cs.princeton.edu/~appel/papers/ssafun.pdf) [(acm link)](https://dl.acm.org/doi/pdf/10.1145/278283.278285) | No quiz -- study for finals! |
-| Apr 25 - Apr 29 | **FINAL EXAM** (TBD) | | [PA5](pa/5.md) (Optional, 23 Apr)|
+| Week 1 (17 Jan) | Intro. to the course, compilers, Rust | [The Rust Book](https://doc.rust-lang.org/book/index.html) 1-3 | Q0/[PE1](pe1.md) (Sat. 21 Jan) |
+| Week 2 (24 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | Q1/[PE2](pe2.md) (Sat. 28 Jan)  |
+| Week 3 (31 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 9, 10.1, 10.2 | [PA0: Intro. to Rust](pa/0.md) (Sat. 4 Feb) |
+| Week 4 (7 Feb) | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q2/[PE3](pe3.md) (Sat. 11 Feb) |
+| Week 5 (14 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (18 Feb - extended to the following Wed) |
+| Week 6 (21 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) or Aho 3.3 | Q3 Garbage Collections/[PE4](pe-rustlings.md) (25 Feb - extended to the following Wed) |
+| Week 7 (28 Feb) | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | [PE5](pe-regularexpressions.md)(26 Feb)/Q4 Regular Expressions (4 Mar)   |
+| Week 8 (7 Mar) | Parsing, Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (Sat. 11 Mar) |
+| Spring Break (12-18 Mar) |  |  |  |
+| Week 9 (21 Mar) | Midterm review | | Midterm Exam Review (Thursday 17 Mar) |
+| Week 10 (28 Mar) | Recursive descent and predictive parsing, parser generators | Appel 3.2-3.3 | [PA3: GC](pa/3.md) (1 Apr) |
+| Week 11 (4 Apr) | Abstract syntax trees, type systems, typechecking | TAPL 3, 8 |  No quiz -- work on PA4! |
+| Week 12 (11 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q5 (15 Apr) |
+| Week 13 (18 Apr) | IR/codegen continued, control-flow graphs | Appel 7.1 | [PA4: IR](pa/4.md) (Wen. 19 Apr) |
+| Week 14 (25 Apr) | Dataflow/liveness analysis | Appel 10.1, Supplementary: [SSA is Functional Programming](https://www.cs.princeton.edu/~appel/papers/ssafun.pdf) [(acm link)](https://dl.acm.org/doi/pdf/10.1145/278283.278285) | No quiz -- study for finals! |
+| May 1 - May 5 | **FINAL EXAM** May 4 @ 12:20pm, Same Location | | [PA5](pa/5.md) (Optional, Sat. 29 Apr)|
 <!-- | Week 14 (19 Apr) | Register allocation | Appel 11 | No quiz -- study for finals! | -->
 
 * Note: we will move the Week 11 and Week 12 content forward one week to get ready for PA4 sooner.
