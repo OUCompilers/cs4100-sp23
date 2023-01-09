@@ -10,5 +10,5 @@ Solve at least 10 of them. Submit the output of command "rustlings list | grep -
 
 ## Bonus points (x2) for the one(s) who solved the most problems.
 
-To claim your bonus points, post your progress with rustlings in the Q&A channel in Teams before the deadline.
+To claim your bonus points, post your progress with rustlings via email before the deadline (db821617@ohio.edu).
 
