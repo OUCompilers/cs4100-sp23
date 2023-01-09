@@ -10,4 +10,8 @@ Solve at least 10 of them. Submit the output of command "rustlings list | grep -
 
 ## Bonus points (x2) for the one(s) who solved the most problems.
 
+P.S. If you having issues running this in WSL2, consider running the rustlings distro within the ubuntu file system, see here
+https://github.com/rust-lang/rustlings/issues/417
+
+
 
