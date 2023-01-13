@@ -13,7 +13,7 @@ The solutions must be in your "completed" section. (The solution screenshot belo
 
 ## Bonus points (x2) for the one(s) who reach the highest level in Rust
 
-To claim your bonus points, post your Rust rank and percentage in the Q&A channel in Teams before the deadline. There will be at least one first-time bonus winner.
+To claim your bonus points, post your Rust rank and percentage with your submission before the deadline.
 
 ![](https://i.imgur.com/oJNrVRV.png)
 
