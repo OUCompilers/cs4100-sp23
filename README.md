@@ -10,7 +10,7 @@ Topics (subject to revision): regular expressions; finite automata; context-free
 |-----------------------|----------------------|
 | **Lecture**           | Tu/Th 3:30-4:50pm in Stocker 103 |
 | **Instructors**        | Dominic Benintendi (db821617@ohio.edu) |
-| **Office Hours**      | Tu 5:00-6:00pm (email or Teams) |
+| **Office Hours**      | Tu 2-3:30pm (email or Teams) |
 | **TA/GA**                | Schaupp, Jacob (js400421@ohio.edu) |
 | **Lab Hours**         | Usually Fridays at 5pm, the days before PA due dates |
 
