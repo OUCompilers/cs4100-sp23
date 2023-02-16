@@ -56,12 +56,12 @@ The schedule is subject to revision.
 | Week 2 (24 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 4-6, 8 | Q1/[PE2](pe2.md) (Sat. 28 Jan)  |
 | Week 3 (31 Jan) | Rust contd. | [The Rust Book](https://doc.rust-lang.org/book/index.html) 9, 10.1, 10.2 | [PA0: Intro. to Rust](pa/0.md) (Sat. 4 Feb) |
 | Week 4 (7 Feb) | Virtual machines, bytecode, assemblers | Crafting Interpreters [14](http://www.craftinginterpreters.com/chunks-of-bytecode.html), [15](http://www.craftinginterpreters.com/a-virtual-machine.html) | Q2/[PE3](pe3.md) (Sat. 11 Feb) |
-| Week 5 (14 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (Sat. 18 Feb) |
+| Week 5 (14 Feb) | Garbage collection, concurrency | Appel 13 | [PA1: Assembler](pa/1.md) (extended)(Wen. 22 Feb) |
 | Week 6 (21 Feb) | Regular languages, regular expressions | Appel 2 (through 2.2) or Aho 3.3 | Q3 Garbage Collections/[PE4](pe-rustlings.md) (25 Feb) |
 | Week 7 (28 Feb) | DFAs, NFAs, lexers and lexer generators | Appel 2.3-2.5 | [PE5](pe-regularexpressions.md)/Q4 Regular Expressions (4 Mar)   |
 | Week 8 (7 Mar) | Parsing, Context-free languages, pushdown automata | Appel 3 | [PA2: VM](pa/2.md) (Sat. 11 Mar) |
 | Spring Break (12-18 Mar) |  |  |  |
-| Week 9 (21 Mar) | Midterm review | | Midterm Exam Review (Thursday 17 Mar) |
+| Week 9 (21 Mar) | Midterm review ( Tues 21 March )  | | Midterm Exam (Thursday 23 Mar) |
 | Week 10 (28 Mar) | Recursive descent and predictive parsing, parser generators | Appel 3.2-3.3 | [PA3: GC](pa/3.md) (1 Apr) |
 | Week 11 (4 Apr) | Abstract syntax trees, type systems, typechecking | TAPL 3, 8 |  No quiz -- work on PA4! |
 | Week 12 (11 Apr) | Intermediate representations, code generation | [Intermediate Representations](doc/ir.md), [Code Generation](doc/codegen.md) | Q5 (15 Apr) |
